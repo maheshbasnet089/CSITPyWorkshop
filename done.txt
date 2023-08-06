@@ -1,0 +1,6 @@
+1.Download Python 
+2.Datatypes,Array,Dictionaires,Loops,condition,Range Function
+3.Input and conversion
+4.Array tasks(zip,enumurate,filter,map)
+5.Function
+6.Tuples
