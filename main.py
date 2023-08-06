@@ -21,11 +21,14 @@ number = "Digital";
 #print(float(a))
 
 #array example
-# arrayofNumbers = [1,2,3,4,5,6]
 #print(arrayofNumbers[-2])
 
 #to add to the end of array
-#arrayofNumbers.append(7)
+
+
+arrayofNumbers = [1,2,3,4,5,6]
+arrayofNumbers.append(7)
+
 
 #loop
 #for number in arrayofNumbers : 
