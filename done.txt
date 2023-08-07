@@ -1,6 +1,41 @@
+Day 1
 1.Download Python 
 2.Datatypes,Array,Dictionaires,Loops,condition,Range Function
 3.Input and conversion
 4.Array tasks(zip,enumurate,filter,map)
 5.Function
 6.Tuples
+
+
+Day 2
+Types of learning:
+
+Supervised learning(input->x,output->y,x depend on y variable or vice versa,labeled data)
+input(independent varibale, j ni dina sakxa end user lay)
+Linear algebra
+Linear regression equation
+Eqn of straight line(2D coordinate system) => y = mx+c
+Where,
+y-> predicted output(nikalnu parney)(dependent variable)
+x->input feature or input(deko ko kura)(independent varibale) 
+m->slope(x rw y ko relation)
+c->y intercept
+Application : Age of person,stockPrice prediction,Weather prediction,housePrice prediction,salesPrediction...
+Bias,coefficient,costFunction and more
+
+Classification regression
+
+
+Unsupervised learning
+Reinforcement learning
+
+Dataset=>csv file(tabular form ma hunchha excel jastae)
+csv file ko data lai clean banayerw matra model lai train garna lai pass garinxa 
+
+Model trained garda(80% training,20% testing)
+RMSE(root mean square error)
+
+Install Anaconda
+
+
+
